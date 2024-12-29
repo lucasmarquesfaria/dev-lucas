@@ -36,7 +36,7 @@ export default function Hero() {
           rel="noopener noreferrer"
           className="inline-block bg-purple-500 text-white px-8 py-3 rounded-md hover:bg-purple-600 transition-colors duration-300"
         >
-          Solicitar serviço
+          Solicitar serviços
         </a>
       </motion.div>
 
