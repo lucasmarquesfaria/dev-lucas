@@ -7,19 +7,19 @@ const projects = [
     title: 'Projeto Perdanet',
     description: 'Sistema de gestão para prevenir perdas de vendas e controlar itens sem cadastro no setor de autopeças.',
     tech: ['Laravel', 'TailwindCSS', 'MySQL', 'JavaScript'],
-    link: '#'
+    link: 'https://github.com/lucasmarquesfaria/perda'
   },
   {
     title: 'Código Certo Coders',
     description: 'Comunidade dedicada a ajudar iniciantes na área de tecnologia, promovendo a inclusão digital.',
     tech: ['Next.js', 'Spring Boot', 'MySQL', 'Git'],
-    link: '#'
+    link: 'https://github.com/codigocerto'
   },
   {
     title: 'VolunDev',
     description: 'Projeto voluntário que oferece soluções tecnológicas gratuitas para projetos sociais.',
     tech: ['Laravel', 'Vue', 'TailwindCSS', 'MySQL'],
-    link: '#'
+    link: ''
   }
 ]
 
